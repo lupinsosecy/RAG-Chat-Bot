@@ -1,4 +1,5 @@
 # Production-Grade Resilient RAG Agent
+![Architecture](architecture.png)
 
 A production-ready, event-driven Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **Inngest**, **Qdrant**, **LlamaIndex**, and **Google Gemini**, complete with an interactive **Streamlit** user interface.
 
