@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: ragproduction-app
+Version: 0.1.0
+Summary: Add your description here
+Author-email: lupinsosecy <145456979+lupinsosecy@users.noreply.github.com>
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.159.1
+Requires-Dist: google-genai>=2.32.0
+Requires-Dist: inngest>=0.5.19
+Requires-Dist: llama-index-core>=0.14.25
+Requires-Dist: llama-index-readers-file>=0.7.0
+Requires-Dist: openai>=3.36.1
+Requires-Dist: python-dotenv>=1.2.4
+Requires-Dist: qdrant-client>=1.20.0
+Requires-Dist: streamlit>=1.66.1
+Requires-Dist: uvicorn>=0.54.0

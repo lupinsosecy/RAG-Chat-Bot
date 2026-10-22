@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables
+.env
+
+# Vector Storage & User Data
+qdrant_storage/
+data/*
+!data/.gitkeep
+
+# Streamlit & OS
+.streamlit/
+.DS_Store
+Thumbs.db

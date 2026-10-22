@@ -1,0 +1,2 @@
+[console_scripts]
+ragproduction-app = main:main
